@@ -1,2 +1,2 @@
 # Poems
-Litersry notes
+Literary notes
